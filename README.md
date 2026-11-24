@@ -1,6 +1,6 @@
 # „Lalka” w recepcji 2026: kto jest winny?
 
-**Zespół:** [imię i nazwisko], [imię i nazwisko]
+**Zespół:** Anna Nowak, Jan Kowalski
 **Zajęcia:** Nowa humanistyka, kulturoznawstwo, studia magisterskie
 **Strona projektu:** [adres z GitHub Pages, np. https://nazwa-konta.github.io/nazwa-repozytorium/]
 
