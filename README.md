@@ -1,4 +1,4 @@
-# [Tytuł projektu]
+# „Lalka” w recepcji 2026: kto jest winny?
 
 **Zespół:** [imię i nazwisko], [imię i nazwisko]
 **Zajęcia:** Nowa humanistyka, kulturoznawstwo, studia magisterskie
